@@ -97,7 +97,7 @@ Implementa un validador de contraseñas. Ésta se debe leer por teclado y debemo
 - Tiene algún carácter raro entre $ % _ *
 - Tiene algún número
 
-Implementa un método que devuelva true o false para indicar si se cumplen los requisitos de contraseña válida o no. La contraseña debe enviarse al método como parámetro.
+Implementa el código que mostrará  si se cumplen los requisitos de contraseña válida o no.
 
 ## Ejercicio 2 versión 2
 El programa debe indicar exactamente qué le falta a la contraseña para ser válida
