@@ -446,3 +446,9 @@ Para la opción 1. preguntará
 
 Para la opción 2. preguntará
    Día de la semana y Franja (mañana/tarde/noche), y temperatura actual
+
+## Ejercicio 16 
+""" 
+Comprueba si una cadena de caracteres comienza por una subcadena
+"""
+
